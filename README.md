@@ -48,12 +48,12 @@ __gooverimport.jar
 ###Descrição dos diretórios e recursos do robô:
 
 
-#### Diretório ```/conf```
+* ```/conf```
 
 Diretório com a configuração do robô. Dentro dele terão 2 arquivos:
 
 
-##### Arquivo: ```config.properties```
+* ```config.properties```
 
 Arquivo de Propriedades com as configurações do robô.
 Dentro das configurações estarão:
@@ -66,8 +66,7 @@ Dentro das configurações estarão:
 * Chaves de API do Cloudinary e The Movie DB Api
 
 
-
-##### Arquivo: ```veiculos.txt```
+* ```veiculos.txt```
 
 Dentro do diretório terá um arquivo veiculos.txt para guia de consulta dos IDs dos veiculos para fazer a configuração do config.properties.
 
