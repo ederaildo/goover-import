@@ -46,9 +46,9 @@ __gooverimport.jar
 
 ###Descrição dos diretórios e recursos do robô:
 
-```
-####/conf
-```
+
+#### Diretório ```/conf```
+
 Diretório com a configuração do robô. Dentro dele terão 2 arquivos:
 ```
 config.properties
