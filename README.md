@@ -64,9 +64,9 @@ Diretório com a configuração do robô. Dentro dele terão 2 arquivos:
 *** Chaves de API do Cloudinary e The Movie DB Api
 
 
-** ```veiculos.txt```
+* ```veiculos.txt```
 
-*** Dentro do diretório terá um arquivo veiculos.txt para guia de consulta dos IDs dos veiculos para fazer a configuração do config.properties.
+** Dentro do diretório terá um arquivo veiculos.txt para guia de consulta dos IDs dos veiculos para fazer a configuração do config.properties.
 
 
 	
