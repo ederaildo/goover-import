@@ -113,11 +113,11 @@ Ao final do log é gerado um pequeno relatório estatístico como por exemplo:
 -- Programas não encontrados -----------------
 A Grande Luta
 Programa Legal
--- Gêneros não encontrados -------------------
+-- Programas sem gêneros ---------------------
 Programa Legal
--- Imagens não encontradas -------------------
+-- Programas sem imagem ----------------------
 Dios Inc.
--- Sinopses não encontradas ------------------
+-- Progrmas sem sinopse ----------------------
 Two and a half men
 ----------------------------------------------
 ----------------------------------------------
