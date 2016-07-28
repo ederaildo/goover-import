@@ -1,0 +1,16 @@
+2016-07-27 01:59:48.882 | INFO  | main       | ortshow.GooverImport:89    | -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+2016-07-27 01:59:49.305 | INFO  | main       | ortshow.GooverImport:106   | -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+2016-07-27 01:59:49.313 | INFO  | main       | ortshow.GooverImport:112   | IMPORTANDO PROGRAMA: 56 Up 01
+2016-07-27 01:59:54.838 | INFO  | main       | ortshow.GooverImport:112   | IMPORTANDO PROGRAMA: House Of Saddam
+2016-07-27 01:59:55.011 | WARN  | main       | ortshow.GooverImport:189   | ---PROGRAMA JÁ EXISTE NA BASE DE DADOS - House Of Saddam
+2016-07-27 01:59:55.012 | INFO  | main       | ortshow.GooverImport:112   | IMPORTANDO PROGRAMA: The Wire 01
+2016-07-27 01:59:55.416 | INFO  | main       | ortshow.GooverImport:112   | IMPORTANDO PROGRAMA: A Grande Luta
+2016-07-27 01:59:55.818 | INFO  | main       | ortshow.GooverImport:112   | IMPORTANDO PROGRAMA: The Line Of Beauty
+2016-07-27 01:59:55.986 | WARN  | main       | ortshow.GooverImport:189   | ---PROGRAMA JÁ EXISTE NA BASE DE DADOS - The Line Of Beauty
+2016-07-27 01:59:55.987 | INFO  | main       | ortshow.GooverImport:112   | IMPORTANDO PROGRAMA: The Passion
+2016-07-27 02:00:10.706 | INFO  | main       | ortshow.GooverImport:89    | -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+2016-07-27 02:00:11.141 | INFO  | main       | ortshow.GooverImport:106   | -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+2016-07-27 02:00:11.146 | INFO  | main       | ortshow.GooverImport:112   | IMPORTANDO PROGRAMA: 56 Up 01
+02:02:07.327 [main] INFO  br.com.gooverapp.importshow.GooverImport - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+02:02:07.747 [main] INFO  br.com.gooverapp.importshow.GooverImport - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+02:02:07.760 [main] INFO  br.com.gooverapp.importshow.GooverImport - IMPORTANDO PROGRAMA: 56 Up 01

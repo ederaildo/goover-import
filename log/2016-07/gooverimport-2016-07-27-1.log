@@ -1,0 +1,3 @@
+02:05:31.896 [main] INFO  br.com.gooverapp.importshow.GooverImport - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+02:05:32.427 [main] INFO  br.com.gooverapp.importshow.GooverImport - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+02:05:32.432 [main] INFO  br.com.gooverapp.importshow.GooverImport - IMPORTANDO PROGRAMA: 56 Up 01

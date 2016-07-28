@@ -1,0 +1,280 @@
+22:24:51.998 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+22:24:52.006 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+22:26:39.260 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+22:26:39.267 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+22:26:40.327 [main] INFO - IMPORTANDO PROGRAMA: The Catch
+22:26:45.382 [main] WARN - ----SINOPSE NÃO ENCONTRADA - The Catch
+22:27:01.541 [main] INFO - ----UPLOAD POSTER The Catch- [OK]
+22:27:02.167 [main] INFO - IMPORTANDO PROGRAMA: Shark Tank
+22:27:02.587 [main] WARN - ----SINOPSE NÃO ENCONTRADA - Shark Tank
+22:27:06.369 [main] INFO - ----UPLOAD POSTER Shark Tank- [OK]
+22:27:06.379 [main] INFO - IMPORTANDO PROGRAMA: Grey's Anatomy
+22:27:11.369 [main] INFO - ----UPLOAD POSTER Grey's Anatomy- [OK]
+22:27:11.392 [main] INFO - IMPORTANDO PROGRAMA: Shark Tank
+22:27:11.642 [main] WARN - ----SINOPSE NÃO ENCONTRADA - Shark Tank
+22:27:15.548 [main] INFO - ----UPLOAD POSTER Shark Tank- [OK]
+22:27:15.621 [main] ERROR - ----ERRO INSERINDO NO BANCO DE DADOS
+22:27:15.621 [main] INFO - IMPORTANDO PROGRAMA: America's Got Talent
+22:27:15.857 [main] WARN - ----SINOPSE NÃO ENCONTRADA - America's Got Talent
+22:27:19.078 [main] INFO - ----UPLOAD POSTER America's Got Talent- [OK]
+22:27:19.099 [main] INFO - IMPORTANDO PROGRAMA: Dr. Oz
+22:27:19.348 [main] WARN - ----SINOPSE NÃO ENCONTRADA - The Dr. Oz Show
+22:27:21.346 [main] INFO - ----UPLOAD POSTER The Dr. Oz Show- [OK]
+22:27:21.360 [main] INFO - -------------- FIM DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:10:44.059 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:10:44.063 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:11:24.443 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:11:24.447 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:11:35.898 [main] INFO - IMPORTANDO PROGRAMA: The Catch
+00:11:40.127 [main] WARN - ----SINOPSE NÃO ENCONTRADA - The Catch
+00:11:50.763 [main] INFO - ----UPLOAD POSTER The Catch- [OK]
+00:11:51.021 [main] WARN - ---PROGRAMA JÁ EXISTE - The Catch
+00:17:26.407 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:17:26.410 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:17:26.962 [main] INFO - IMPORTANDO PROGRAMA: The Catch
+00:17:28.499 [main] WARN - ----SINOPSE NÃO ENCONTRADA - The Catch
+00:17:34.522 [main] INFO - ----UPLOAD POSTER The Catch- [OK]
+00:17:34.619 [main] WARN - ---PROGRAMA JÁ EXISTE - The Catch
+00:17:34.619 [main] INFO - IMPORTANDO PROGRAMA: Shark Tank
+00:17:34.995 [main] WARN - ----SINOPSE NÃO ENCONTRADA - Shark Tank
+00:17:38.140 [main] INFO - ----UPLOAD POSTER Shark Tank- [OK]
+00:17:38.144 [main] WARN - ---PROGRAMA JÁ EXISTE - Shark Tank
+00:17:38.145 [main] INFO - IMPORTANDO PROGRAMA: Grey's Anatomy
+00:17:41.922 [main] INFO - ----UPLOAD POSTER Grey's Anatomy- [OK]
+00:17:41.924 [main] WARN - ---PROGRAMA JÁ EXISTE - Grey's Anatomy
+00:17:41.924 [main] INFO - IMPORTANDO PROGRAMA: America's Got Talent
+00:17:42.166 [main] WARN - ----SINOPSE NÃO ENCONTRADA - America's Got Talent
+00:17:44.065 [main] INFO - ----UPLOAD POSTER America's Got Talent- [OK]
+00:17:44.068 [main] WARN - ---PROGRAMA JÁ EXISTE - America's Got Talent
+00:17:44.068 [main] INFO - IMPORTANDO PROGRAMA: Rainha do Sul
+00:18:31.096 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:18:31.100 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:18:40.549 [main] INFO - IMPORTANDO PROGRAMA: The Catch
+00:18:42.466 [main] WARN - ----SINOPSE NÃO ENCONTRADA - The Catch
+00:19:41.450 [main] INFO - ----UPLOAD POSTER The Catch- [OK]
+00:19:41.556 [main] WARN - ---PROGRAMA JÁ EXISTE - The Catch
+00:19:41.556 [main] INFO - IMPORTANDO PROGRAMA: Shark Tank
+00:19:42.002 [main] WARN - ----SINOPSE NÃO ENCONTRADA - Shark Tank
+00:21:22.987 [main] INFO - ----UPLOAD POSTER Shark Tank- [OK]
+00:21:22.993 [main] WARN - ---PROGRAMA JÁ EXISTE - Shark Tank
+00:21:22.994 [main] INFO - IMPORTANDO PROGRAMA: Grey's Anatomy
+00:21:54.369 [main] INFO - ----UPLOAD POSTER Grey's Anatomy- [OK]
+00:21:54.375 [main] WARN - ---PROGRAMA JÁ EXISTE - Grey's Anatomy
+00:21:54.376 [main] INFO - IMPORTANDO PROGRAMA: America's Got Talent
+00:21:54.763 [main] WARN - ----SINOPSE NÃO ENCONTRADA - America's Got Talent
+00:22:26.204 [main] INFO - ----UPLOAD POSTER America's Got Talent- [OK]
+00:22:26.209 [main] WARN - ---PROGRAMA JÁ EXISTE - America's Got Talent
+00:22:26.209 [main] INFO - IMPORTANDO PROGRAMA: Rainha do Sul
+00:23:20.730 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:23:20.733 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:23:21.357 [main] INFO - IMPORTANDO PROGRAMA: The Catch
+00:23:37.112 [main] WARN - ----SINOPSE NÃO ENCONTRADA - The Catch
+00:23:53.997 [main] INFO - ----UPLOAD POSTER The Catch- [OK]
+00:23:54.111 [main] WARN - ---PROGRAMA JÁ EXISTE - The Catch
+00:23:54.112 [main] INFO - IMPORTANDO PROGRAMA: Shark Tank
+00:24:03.644 [main] WARN - ----SINOPSE NÃO ENCONTRADA - Shark Tank
+00:24:06.751 [main] INFO - ----UPLOAD POSTER Shark Tank- [OK]
+00:24:06.758 [main] WARN - ---PROGRAMA JÁ EXISTE - Shark Tank
+00:24:06.759 [main] INFO - IMPORTANDO PROGRAMA: Grey's Anatomy
+00:24:14.415 [main] INFO - ----UPLOAD POSTER Grey's Anatomy- [OK]
+00:24:14.419 [main] WARN - ---PROGRAMA JÁ EXISTE - Grey's Anatomy
+00:24:14.421 [main] INFO - IMPORTANDO PROGRAMA: America's Got Talent
+00:24:30.636 [main] WARN - ----SINOPSE NÃO ENCONTRADA - America's Got Talent
+00:24:32.760 [main] INFO - ----UPLOAD POSTER America's Got Talent- [OK]
+00:24:32.763 [main] WARN - ---PROGRAMA JÁ EXISTE - America's Got Talent
+00:24:32.764 [main] INFO - IMPORTANDO PROGRAMA: Rainha do Sul
+21:26:23.363 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+21:26:23.394 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+21:26:24.028 [main] INFO - IMPORTANDO PROGRAMA: Aifric
+21:26:29.460 [main] WARN - ----SINOPSE NÃO ENCONTRADA - Aifric
+21:29:59.151 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+21:29:59.154 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+21:29:59.854 [main] INFO - IMPORTANDO PROGRAMA: Aifric
+21:30:05.592 [main] WARN - ----SINOPSE NÃO ENCONTRADA - Aifric
+21:31:26.170 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+21:31:26.173 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+21:31:26.622 [main] INFO - IMPORTANDO PROGRAMA: Aifric
+21:31:31.372 [main] WARN - ----SINOPSE NÃO ENCONTRADA - Aifric
+22:04:47.993 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+22:04:48.433 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+22:04:48.472 [main] INFO - IMPORTANDO PROGRAMA: Aifric
+22:04:54.084 [main] INFO - -------------- FIM DA IMPORTAÇÃO DE PROGRAMAS --------------
+22:04:54.085 [main] INFO - 
+--------------------------------------------------------
+------------------- Estatísticas -----------------------
+--------------------------------------------------------
+--- Programas sem Sinopse ------------------------------
+Aifric
+--- Programas sem Imagem -------------------------------
+Aifric
+--- Programas sem Genero -------------------------------
+Aifric
+--- Programas não encontrados --------------------------
+--------------------------------------------------------
+22:59:56.997 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+23:00:00.520 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+23:00:00.631 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Flyers/rangers: Road to the NHL
+23:00:21.604 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Jimmie Johnson: Race to Daytona
+23:00:25.963 [main] INFO - IMPORTANDO PROGRAMA: 50 Grandes Filmes Brasileiros
+23:00:27.591 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+23:00:29.102 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+23:01:04.555 [main] INFO - ----UPLOAD POSTER House of Saddam- [OK]
+23:01:04.984 [main] ERROR - ----ERRO INSERINDO NO BANCO DE DADOS
+23:01:04.985 [main] INFO - IMPORTANDO PROGRAMA: The Wire 01
+23:01:08.761 [main] INFO - IMPORTANDO PROGRAMA: A Grande Luta
+23:01:11.624 [main] INFO - IMPORTANDO PROGRAMA: The Line Of Beauty
+23:08:25.346 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+23:08:25.980 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+23:08:25.999 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Flyers/rangers: Road to the NHL
+23:08:41.277 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Jimmie Johnson: Race to Daytona
+23:08:43.032 [main] INFO - IMPORTANDO PROGRAMA: 50 Grandes Filmes Brasileiros
+23:08:44.317 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+23:08:45.493 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+23:12:43.393 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+23:12:43.987 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+23:12:44.021 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Flyers/rangers: Road to the NHL
+23:12:52.873 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Jimmie Johnson: Race to Daytona
+23:12:55.193 [main] INFO - IMPORTANDO PROGRAMA: 50 Grandes Filmes Brasileiros
+23:12:59.153 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+23:13:04.123 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+23:14:15.953 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+23:14:16.496 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+23:14:16.509 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Flyers/rangers: Road to the NHL
+23:14:23.510 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Jimmie Johnson: Race to Daytona
+23:14:25.512 [main] INFO - IMPORTANDO PROGRAMA: 50 Grandes Filmes Brasileiros
+23:14:27.492 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+23:14:30.208 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+23:25:48.453 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+23:25:49.113 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+23:25:49.125 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Flyers/rangers: Road to the NHL
+23:25:57.665 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Jimmie Johnson: Race to Daytona
+23:25:59.600 [main] INFO - IMPORTANDO PROGRAMA: 50 Grandes Filmes Brasileiros
+23:26:01.418 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+23:26:03.315 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+23:27:28.070 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+23:27:28.579 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+23:27:28.591 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Flyers/rangers: Road to the NHL
+23:27:35.738 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Jimmie Johnson: Race to Daytona
+23:27:37.607 [main] INFO - IMPORTANDO PROGRAMA: 50 Grandes Filmes Brasileiros
+23:27:39.854 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+23:27:41.822 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+23:44:40.559 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+23:44:41.061 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+23:44:41.084 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Flyers/rangers: Road to the NHL
+23:44:50.466 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Jimmie Johnson: Race to Daytona
+23:44:51.896 [main] INFO - IMPORTANDO PROGRAMA: 50 Grandes Filmes Brasileiros
+23:44:54.201 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+23:44:56.726 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+23:45:47.456 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+23:45:47.991 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+23:45:48.047 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Flyers/rangers: Road to the NHL
+23:48:07.588 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+23:48:08.145 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+23:48:08.162 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Flyers/rangers: Road to the NHL
+23:48:20.444 [main] INFO - IMPORTANDO PROGRAMA: 24/7 Jimmie Johnson: Race to Daytona
+23:48:23.145 [main] INFO - IMPORTANDO PROGRAMA: 50 Grandes Filmes Brasileiros
+23:48:25.302 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+23:48:27.625 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+23:49:56.900 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+23:49:57.374 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+23:49:57.387 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+23:50:13.001 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+23:51:03.557 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+23:51:04.132 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+23:51:04.152 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+23:51:12.534 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+23:59:30.674 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+23:59:31.210 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+23:59:31.226 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:00:32.435 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:00:33.092 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:00:33.105 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:00:44.459 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:02:42.362 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:02:42.879 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:02:42.904 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:02:50.376 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:04:10.363 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:04:10.934 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:04:10.951 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:04:18.026 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:04:44.314 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:04:44.927 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:04:44.954 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:05:50.361 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:05:50.918 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:05:50.933 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:05:58.405 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:07:16.842 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:07:17.461 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:07:17.479 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:07:28.371 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:21:30.220 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:21:30.848 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:21:30.863 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:21:38.598 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:22:35.533 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:22:36.045 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:22:36.060 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:22:54.737 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:23:47.401 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:23:47.912 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:23:47.935 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:23:57.667 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:25:28.170 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:25:28.692 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:25:28.704 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:25:44.258 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:25:44.778 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:25:44.790 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:26:30.904 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:26:31.415 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:26:31.442 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:26:39.542 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:28:24.548 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:28:25.094 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:28:25.105 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:28:32.516 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:29:08.069 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:29:08.607 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:29:08.618 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:29:17.656 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:29:43.971 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:29:44.537 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:29:44.549 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:29:55.221 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:35:50.198 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:35:50.689 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:35:50.717 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:36:00.037 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:37:28.569 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:37:29.059 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:37:29.072 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:37:34.949 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:37:40.771 [main] INFO - ----UPLOAD POSTER House of Saddam- [OK]
+00:37:41.047 [main] ERROR - ----ERRO INSERINDO NO BANCO DE DADOS
+00:37:41.048 [main] INFO - IMPORTANDO PROGRAMA: The Wire 01
+00:37:42.446 [main] INFO - IMPORTANDO PROGRAMA: A Grande Luta
+00:38:07.540 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:38:08.039 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:38:08.050 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:38:17.469 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:39:00.555 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:39:01.091 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:39:01.103 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:39:12.499 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:39:36.276 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:39:36.792 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:39:36.811 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:39:45.736 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:40:58.285 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:40:58.807 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:40:58.830 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:41:13.384 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+00:43:12.864 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+00:43:13.457 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+00:43:13.476 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01
+00:43:19.942 [main] INFO - IMPORTANDO PROGRAMA: House Of Saddam
+01:41:11.891 [main] INFO - -------------- INÍCIO DA IMPORTAÇÃO DE PROGRAMAS --------------
+01:41:12.335 [main] INFO - -------------- INÍCIO DA LEITURA DO ARQUIVO listimport.txt --------------
+01:41:12.342 [main] INFO - IMPORTANDO PROGRAMA: 56 Up 01

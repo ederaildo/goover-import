@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/cloudinary-core-1.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/cloudinary-http44-1.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/hk2-api.jar"/>
+	<classpathentry kind="lib" path="lib/hk2-locator.jar"/>
+	<classpathentry kind="lib" path="lib/hk2-utils-2.1.44.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="lib/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-guava-2.7.jar"/>
+	<classpathentry kind="lib" path="lib/json.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.5.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb-driver-3.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb-driver-core-3.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/bson-3.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

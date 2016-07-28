@@ -1,0 +1,750 @@
+/* 1 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c282f"),
+    "nome" : "Record"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2830"),
+    "nome" : "Band"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2831"),
+    "nome" : "Rede Globo"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2832"),
+    "nome" : "Cultura"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2833"),
+    "nome" : "RedeTV!"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2834"),
+    "nome" : "TV Aberta"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2835"),
+    "nome" : "Gazeta"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2836"),
+    "nome" : "TV Justiça"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2837"),
+    "nome" : "SBT"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2838"),
+    "nome" : "Rede Gospel"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2839"),
+    "nome" : "TV Escola"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c283a"),
+    "nome" : "NBR"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c283b"),
+    "nome" : "TV Senado"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c283c"),
+    "nome" : "Canal Universitário"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c283d"),
+    "nome" : "Terra Viva"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c283e"),
+    "nome" : "TV Câmara"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c283f"),
+    "nome" : "TV Brasil"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2840"),
+    "nome" : "Ideal TV"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2841"),
+    "nome" : "ShopBuy"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2842"),
+    "nome" : "TV Canção Nova"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2843"),
+    "nome" : "Mega TV"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2844"),
+    "nome" : "Shoptime"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2845"),
+    "nome" : "Canal Rural"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2846"),
+    "nome" : "CNT"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2847"),
+    "nome" : "Rede Vida"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2848"),
+    "nome" : "TV Aparecida"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2849"),
+    "nome" : "RIT TV"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c284a"),
+    "nome" : "Polishop"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c284b"),
+    "nome" : "Animal Planet",
+    "key" : "animal-planet"
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c284c"),
+    "nome" : "Futura"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c284d"),
+    "nome" : "Discovery"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c284e"),
+    "nome" : "National Geographic"
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c284f"),
+    "nome" : "History Channel"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2850"),
+    "nome" : "H2 Channel"
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2851"),
+    "nome" : "Discovery Science"
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2852"),
+    "nome" : "Investigação Discovery"
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2853"),
+    "nome" : "Discovery Turbo"
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2854"),
+    "nome" : "Discovery Civilization"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2855"),
+    "nome" : "Discovery Theater"
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2856"),
+    "nome" : "Multishow"
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2857"),
+    "nome" : "BIS"
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2858"),
+    "nome" : "Play TV"
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2859"),
+    "nome" : "Music Box Brasil"
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c285a"),
+    "nome" : "MTV"
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c285b"),
+    "nome" : "VH1"
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c285c"),
+    "nome" : "SportTV"
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c285d"),
+    "nome" : "ESPN"
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c285e"),
+    "nome" : "ESPN Brasil"
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c285f"),
+    "nome" : "Band Sports"
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2860"),
+    "nome" : "Fox Sports"
+}
+/* 1 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2861"),
+    "nome" : "Esporte Interativo"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2862"),
+    "nome" : "The Golf Channel"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2863"),
+    "nome" : "Canal Brasil"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2864"),
+    "nome" : "TNT"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2865"),
+    "nome" : "TCM"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2866"),
+    "nome" : "Megapix"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2867"),
+    "nome" : "Spice"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2868"),
+    "nome" : "Studio Universal"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2869"),
+    "nome" : "Cinemax"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c286a"),
+    "nome" : "Disney Channel"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c286b"),
+    "nome" : "Prime Box Brasil"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c286c"),
+    "nome" : "Paramount"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c286d"),
+    "nome" : "Cartoon Network"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c286e"),
+    "nome" : "Disney XD"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c286f"),
+    "nome" : "Zoomoo"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2870"),
+    "nome" : "Discovery Kids"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2871"),
+    "nome" : "Nickelodeon"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2872"),
+    "nome" : "TV Ra Tim Bum"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2873"),
+    "nome" : "Disney Jr"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2874"),
+    "nome" : "Gloob"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2875"),
+    "nome" : "Nick Jr"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2876"),
+    "nome" : "Tooncast"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2877"),
+    "nome" : "CNN"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2878"),
+    "nome" : "Bloomberg"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2879"),
+    "nome" : "TVe"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c287a"),
+    "nome" : "SIC International"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c287b"),
+    "nome" : "Rai"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c287c"),
+    "nome" : "DW TV"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c287d"),
+    "nome" : "TV5 Monde"
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c287e"),
+    "nome" : "NHK World Premium"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c287f"),
+    "nome" : "Record News"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2880"),
+    "nome" : "Globo News"
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2881"),
+    "nome" : "AXN"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2882"),
+    "nome" : "Fox"
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2883"),
+    "nome" : "Universal"
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2884"),
+    "nome" : "Sony"
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2885"),
+    "nome" : "ID"
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2886"),
+    "nome" : "Warner"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2887"),
+    "nome" : "A&E"
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2888"),
+    "nome" : "FX"
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2889"),
+    "nome" : "Lifetime"
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c288a"),
+    "nome" : "Syfy"
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c288b"),
+    "nome" : "Tbs"
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c288c"),
+    "nome" : "Comedy Central"
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c288d"),
+    "nome" : "GNT"
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c288e"),
+    "nome" : "Discovery Home And Health"
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c288f"),
+    "nome" : "E!"
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2890"),
+    "nome" : "Fox Life"
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2891"),
+    "nome" : "Glitz"
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2892"),
+    "nome" : "Tru TV"
+}
+/* 1 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2893"),
+    "nome" : "Supermix"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2894"),
+    "nome" : "Viva"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2895"),
+    "nome" : "Off"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2896"),
+    "nome" : "Curta!"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2897"),
+    "nome" : "Whoohoo"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2898"),
+    "nome" : "Arte 1"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c2899"),
+    "nome" : "TLC"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c289a"),
+    "nome" : "Youtube"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c289b"),
+    "nome" : "Netflix"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c289c"),
+    "nome" : "Hulu"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c289d"),
+    "nome" : "Apple TV"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c289e"),
+    "nome" : "Vimeo"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c289f"),
+    "nome" : "NET Now"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c28a0"),
+    "nome" : "Telecine"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c28a1"),
+    "nome" : "HBO"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c28a2"),
+    "nome" : "Max"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c28a3"),
+    "nome" : "Futebol Premiere"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c28a4"),
+    "nome" : "Combate"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c28a5"),
+    "nome" : "Playboy TV"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c28a6"),
+    "nome" : "Sexy Hot"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c28a7"),
+    "nome" : "Venus"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c28a8"),
+    "nome" : "Sextreme"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c28a9"),
+    "nome" : "Pay Per View"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5768a4b80b12fbe73f0c28aa"),
+    "nome" : "Band News"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5768adcbb9f7ea9a7fc5d245"),
+    "key" : "space",
+    "nome" : "Space",
+    "__v" : 0
+}
