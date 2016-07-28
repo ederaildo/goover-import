@@ -12,6 +12,7 @@ O Import é um aplicativo do tipo uber-jar que faz a importação de Programas p
 ## O que o Import faz?
 
 O robô de importação segue as seguintes ações:
+
 * Lê uma lista de programas no arquivo texto listimport.txt
 * Lê os arquivo de propriedades com a configurações de banco de dados de destino, categorias em que os programas da lista está inserido e os veículos onde passam os programas da lista
 * Para cada programa da lista é feito uma pesquisa na API do site [http://api.themoviedb.org](http://api.themoviedb.org) esse API retorna um JSON REST com as informações do programa como título, generos, sinopse, imagem etc.
@@ -57,6 +58,7 @@ config.properties
 ```
 Arquivo de Propriedades com as configurações do robô.
 Dentro das configurações estarão:
+
 * URL do banco de dados Mongo destino
 * IDs dos veiculos (onde passam os progamas, por exemplo HBO, Globo, SBT, Netflix etc.) separados por virgulas e sem espaços, por exemplo:
 ```5768a4b80b12fbe73f0c28a1,5768a4b80b12fbe73f0c2832```
