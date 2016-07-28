@@ -56,6 +56,7 @@ Diretório com a configuração do robô. Dentro dele terão 2 arquivos:
 * ```config.properties```
 
 Arquivo de Propriedades com as configurações do robô. Dentro das configurações estarão:
+
 * URL do banco de dados Mongo destino
 * IDs dos veiculos (onde passam os progamas, por exemplo HBO, Globo, SBT, Netflix etc.) separados por virgulas e sem espaços, por exemplo:
 ```5768a4b80b12fbe73f0c28a1,5768a4b80b12fbe73f0c2832```
