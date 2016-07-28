@@ -53,9 +53,8 @@ __gooverimport.jar
 Diretório com a configuração do robô. Dentro dele terão 2 arquivos:
 
 
-```
-config.properties
-```
+##### Arquivo: ```config.properties```
+
 Arquivo de Propriedades com as configurações do robô.
 Dentro das configurações estarão:
 
@@ -68,9 +67,8 @@ Dentro das configurações estarão:
 
 
 
-```
-veiculos.txt
-```
+##### Arquivo: ```veiculos.txt```
+
 Dentro do diretório terá um arquivo veiculos.txt para guia de consulta dos IDs dos veiculos para fazer a configuração do config.properties.
 
 
