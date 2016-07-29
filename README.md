@@ -23,7 +23,7 @@ O robô de importação segue as seguintes ações:
 
 Para instalar e executar é preciso ter as seguintes ferramentas instaladas:
 
-* [MongoDB](www.mongodb.org)
+* [MongoDB](www.mongodb.org) Caso queira fazer import numa base local
 * [Java 1.8](www.java.com)
 * [Maven](www.maven.apache.org)
 
