@@ -53,32 +53,30 @@ __gooverimport.jar
 Diretório com a configuração do robô. Dentro dele terão 2 arquivos:
 
 
-```config.properties```
+* `config.properties`
 
 Arquivo de Propriedades com as configurações do robô. Dentro das configurações estarão:
 
 * URL do banco de dados Mongo destino
-* IDs dos veiculos (onde passam os progamas, por exemplo HBO, Globo, SBT, Netflix etc.) separados por virgulas e sem espaços, por exemplo:
-
-```5768a4b80b12fbe73f0c28a1,5768a4b80b12fbe73f0c2832```
+* IDs dos veiculos (onde passam os progamas, por exemplo HBO, Globo, SBT, Netflix etc.) separados por virgulas e sem espaços, por exemplo: `5768a4b80b12fbe73f0c28a1,5768a4b80b12fbe73f0c2832`
 
 * IDs das categorias onde estão inseridos os programas da lista também separados por vírgulas por exemplo:
-
-```categorias=576896fb6d4a0f3c01e182cd,5768977a6d4a0f3c01e182cf```
+`categorias=576896fb6d4a0f3c01e182cd,5768977a6d4a0f3c01e182cf`
 
 * Chaves de API do Cloudinary e The Movie DB Api
 
 
-```veiculos.txt```
+
+* `veiculos.txt`
 
 Dentro do diretório terá um arquivo veiculos.txt para guia de consulta dos IDs dos veiculos para fazer a configuração do config.properties.
 
 
 	
 
-#### Diretório ```/file```
+#### Diretório `/file`
 
-Arquivo ```listimport.txt```
+Arquivo `listimport.txt`
 
 Esse arquivo irá conter a lista de nomes dos programas que serão importadas para o Backend
 O formato é uma listagem simples, por exemplo:
@@ -89,12 +87,12 @@ Parade's End
 Penny Dreadful
 ```
 
-#### Diretório ```/img```
+#### Diretório `/img`
 
 Arquivo de imagem de download temporário. (não tem ação sobre ela)
 
 
-#### Diretório ```/log```
+#### Diretório `/log`
 
 Arquivos de logs de importação.
 
