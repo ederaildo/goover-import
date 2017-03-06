@@ -1,40 +1,40 @@
-[![Goover Logo](http://gooverbackend-gooverprd.rhcloud.com/images/logo.png)](http://www.gooverapp.com/)
+[![Goover Logo](https://github.com/ederaildo/goover-services/blob/master/goover_logo.jpg?raw=true)](http://www.gooverapp.com/)
 
 
 #Goover Import
 
-## Sobre
+## About
 
-Goover é um aplicativo que demonstra a tendência de público para os diversos programas ou séries da TV (Aberta e Paga), Stream  e canais de Internet.
+Goover is an mobile app that indicates trendig for TV series, TV Shows and Internet Streams.
 
-O Import é um aplicativo do tipo uber-jar que faz a importação de Programas para o Backend do Goover.
+Goover Import is an application like uber-jar that imports TV Shows for Goover Backend.
 
-## O que o Import faz?
+## What´s Import does?
 
-O robô de importação segue as seguintes ações:
+The import app dows follow actions:
 
-* Lê uma lista de programas no arquivo texto listimport.txt
-* Lê os arquivo de propriedades com a configurações de banco de dados de destino, categorias em que os programas da lista está inserido e os veículos onde passam os programas da lista
-* Para cada programa da lista é feito uma pesquisa na API do site [http://api.themoviedb.org](http://api.themoviedb.org) esse API retorna um JSON REST com as informações do programa como título, generos, sinopse, imagem etc.
-* É feito um upload local e temporário da imagem do programa e feito um upload no [Cloudinary.com](www.cloudinary.com).
-* Essas informações são reunidas num documento JSON Programa e são inseridas no banco de dados.
+* Read a tv shows list inputed in a text file `listimport.txt`
+* Read the properties files with database configurations, tv shows categories and where the show is transmitted.
+* For each show in the list the application gets from API service [http://api.themoviedb.org](http://api.themoviedb.org) this API returns a JSON REST with information of TV Show like title, genre, sinopsis, poster image etc.
+* Is perfomed a local temporary upload for tv show image and them upload in [Cloudinary.com](www.cloudinary.com).
+* These informations are inputed in JSON document and follow inserted in database.
 
-## Pré Requisitos
+## Pre Requisites
 
-Para instalar e executar é preciso ter as seguintes ferramentas instaladas:
+Installing and run you should follows tools installed:
 
-* [MongoDB](www.mongodb.org) Caso queira fazer import numa base local
+* [MongoDB](www.mongodb.org) 
 * [Java 1.8](www.java.com)
 * [Maven](www.maven.apache.org)
 
-## Instalação
+## Installation
 
-O Goover Import foi construído sob um .project [Eclipse](www.eclipse.org).
-Então basta fazer a importação do projeto Eclipse para o IDE local.
+Goover Import was build onver `.project` [Eclipse](www.eclipse.org).
+So it´s only necessary import the Eclipse project to local workspace.
 
-## Estrutura
+## Structure
 
-Estrutura dos diretórios do robô:
+Directory structure of application:
 
 ```
 /gooverimport
@@ -45,82 +45,82 @@ __/log
 __gooverimport.jar
 ```
 
-### Descrição dos diretórios e recursos do robô:
+### Directory and resources description:
 
 
-#### Diretório ```/conf```
+#### Directory ```/conf```
 
-Diretório com a configuração do robô. Dentro dele terão 2 arquivos:
+Directory with all application configuration. This directory has 2 files:
 
 
 * `config.properties`
 
-Arquivo de Propriedades com as configurações do robô. Dentro das configurações estarão:
+Propriety File with follow informations:
 
-* URL do banco de dados Mongo destino
-* IDs dos veiculos (onde passam os progamas, por exemplo HBO, Globo, SBT, Netflix etc.) separados por virgulas e sem espaços, por exemplo: `5768a4b80b12fbe73f0c28a1,5768a4b80b12fbe73f0c2832`
+* MongoDB Database URL
+* Broadcasters IDs (for example: HBO, ABC, CBS, YouTube, Netflix etc.). That´s itens are separated by comma and without spaces. Example: `5768a4b80b12fbe73f0c28a1,5768a4b80b12fbe73f0c2832`
 
-* IDs das categorias onde estão inseridos os programas da lista também separados por vírgulas por exemplo:
+* Categories IDs also separated by comma. Examplo:
 `categorias=576896fb6d4a0f3c01e182cd,5768977a6d4a0f3c01e182cf`
 
-* Chaves de API do Cloudinary e The Movie DB Api
+* Cloudinary API Key and The Movie DB Api
 
 
 
 * `veiculos.txt`
 
-Dentro do diretório terá um arquivo veiculos.txt para guia de consulta dos IDs dos veiculos para fazer a configuração do config.properties.
+Inside the directory has a file named `veiculos.txt` this file is a consulting guide for discovery broadcasters IDs and them configurate `config.properties` file.
 
 
 	
 
-#### Diretório `/file`
+#### Directory `/file`
 
-Arquivo `listimport.txt`
+File `listimport.txt`
 
-Esse arquivo irá conter a lista de nomes dos programas que serão importadas para o Backend
-O formato é uma listagem simples, por exemplo:
+This file will contains a list of brodacasters names that´s will be imported to Goover Backend
+The format is a simple list, for example:
 
 ```
-O Negócio
+Game Of Thrones
 Parade's End
 Penny Dreadful
 ```
 
-#### Diretório `/img`
+#### Directory `/img`
 
-Arquivo de imagem de download temporário. (não tem ação sobre ela)
+Temporary image file. (doesn´t action here)
 
 
-#### Diretório `/log`
+#### Directory `/log`
 
-Arquivos de logs de importação.
+Import logs files.
 
 ## Run
 
-Você pode executar o robô com o simples comando:
+Run the simple command:
 
 ```
 java -jar gooverimport.jar
 ```
 
-## Arquivos de Log:
+## Logs Files:
 
-Os arquivos de logs contém as informações das ações tomadas pela execução do robô. Como por exemplo conexão com o banco, programa importado, informa se o programa já existe na base etc.
-Ao final do log é gerado um pequeno relatório estatístico como por exemplo:
+The logs files contains information of action perfomed by application like database connection, tv show imported and others informations.
+At the end of log will be generated a little statistic report:
 
 ```
 ----------------------------------------------
--------------   Estatísticas   ---------------
+---------------   Statistics   ---------------
 ----------------------------------------------
--- Programas não encontrados -----------------
-A Grande Luta
-Programa Legal
--- Programas sem gêneros ---------------------
-Programa Legal
--- Programas sem imagem ----------------------
+-- Shows not found ---------------------------
+The Walking Dead
+Legion
+-- Show without genres -----------------------
+Grey´s Anatomy
+-- Show without poster image -----------------
 Dios Inc.
--- Progrmas sem sinopse ----------------------
+-- Show without sinopsis ---------------------
 Two and a half men
 ----------------------------------------------
 ```
